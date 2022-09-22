@@ -10821,11 +10821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Daily Task\\ASP.NET\\DemoApplication\\DemoApplication\\DemoApplication.csproj",
+      "projectUniqueName": "F:\\Daily Task\\ASP.NET\\.Net_Core-_backend\\DemoApplication\\DemoApplication\\DemoApplication.csproj",
       "projectName": "DemoApplication",
-      "projectPath": "F:\\Daily Task\\ASP.NET\\DemoApplication\\DemoApplication\\DemoApplication.csproj",
+      "projectPath": "F:\\Daily Task\\ASP.NET\\.Net_Core-_backend\\DemoApplication\\DemoApplication\\DemoApplication.csproj",
       "packagesPath": "C:\\Users\\emran\\.nuget\\packages\\",
-      "outputPath": "F:\\Daily Task\\ASP.NET\\DemoApplication\\DemoApplication\\obj\\",
+      "outputPath": "F:\\Daily Task\\ASP.NET\\.Net_Core-_backend\\DemoApplication\\DemoApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emran\\AppData\\Roaming\\NuGet\\NuGet.Config",
